@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_10fea7287ebfce05c60dce7835f988db003016e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_9d6bd422bf93849189294fea4af9246f6552e1fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27e17c105e179b4ac21eb8a090697a4f1a830617">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ce8f243fbdc63322bcc66b1578774f7188e902cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_a459fefd0e59167df9ba7a7fd3cb78dbc0abb745/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_e6f183f092af4406f72f9f85de06540a53122f0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_2a216da122b5068a78f164a9a30eb8c55421f538/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4f911a2411c0761412e04aa39499ec68f6bbebb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea73a08f58542571c2690976196ffeb2b2aca500">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_36a6b9a65356cccf2635b19fb01eb77ed57c57f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_201e72ac5b4a014f731614caf771b53bf7a3f4f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_414baee60801abc2ade7d3c6c2bd09ff3c257a04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_907c999d1c9d61bcee499a6af09f808cad83b99e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8cf055e257b2eeef07c1f793ebb4d288d63ebc77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_607fd32f4e354fd4e061fabe88a450d274a95ad5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6a3d371421f5d02784243640f14dd89a39788133/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7356037fa6bc9ed6e9d52054f14233a86cf284d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_2551df2c69a087d670bb63be5a6b4cd272392a20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_b998b3c276c0253f76f78407249e6d47e75d2700/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/reid/Android/test/Camera2/youtubeapplication/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_96425af089d360d1f4bad2c9bb80ac27ea040c2f/classes.dex" />
+    </item>
+
+</items>
